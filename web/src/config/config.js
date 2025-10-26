@@ -1,0 +1,1 @@
+export const key = "Ad-Api-Key-123";
